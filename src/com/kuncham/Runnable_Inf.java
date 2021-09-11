@@ -35,7 +35,7 @@ public class Runnable_Inf {
 		try {Thread.sleep(500);}catch(Exception e) {}
 		t2.start();
 		t1.join();
-		System.out.println("Vijay");
+		System.out.println("Vijaykumar");
 		t2.join();
 		 
 	}
